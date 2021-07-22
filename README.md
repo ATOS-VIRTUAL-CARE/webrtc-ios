@@ -16,7 +16,7 @@ Alternatively, to integrate via a Package.swift manifest instead of Xcode, you c
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/ATOS-VIRTUAL-CARE/WebRTC.git", .upToNextMajor(from: "90.0.0"))
+    .package(url: "https://github.com/ATOS-VIRTUAL-CARE/webrtc-ios.git", .upToNextMajor(from: "90.0.0"))
 ]
 ```
 
